@@ -1,0 +1,7 @@
+Uppgifter ----
+
+Skriv och testa klassen ARSet.java
+
+Använd @Before där det är lämpligt, endast en assert per test, bra och beskrivande testnamn, skapa en testsuite, en klass per metod.
+
+Försök få bra code-coverage på line%.
